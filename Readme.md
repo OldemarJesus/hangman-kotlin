@@ -12,4 +12,4 @@ The appropriate message is shown at the end.
 
 ## Subject
 
-- For pratice
+- For practice
