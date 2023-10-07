@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72e9e468-6140-4763-bc8e-5c24f67f8ab8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UdemyHangManGame.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/oldemarjesus/run/Run.kt" afterDir="false" />
+    <list default="true" id="72e9e468-6140-4763-bc8e-5c24f67f8ab8" name="Changes" comment="Added feature to set random word to guess, update guessed character and let user know if he missed the word or not, show at the end the &quot;win&quot; or &quot;lose&quot; message">
+      <change afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +21,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
@@ -57,6 +51,19 @@
       <option name="presentableId" value="Default" />
       <updated>1696709005272</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added feature to set random word to guess, update guessed character and let user know if he missed the word or not, show at the end the &quot;win&quot; or &quot;lose&quot; message">
+      <option name="closed" value="true" />
+      <created>1696712204154</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696712204154</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added feature to set random word to guess, update guessed character and let user know if he missed the word or not, show at the end the &quot;win&quot; or &quot;lose&quot; message" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added feature to set random word to guess, update guessed character and let user know if he missed the word or not, show at the end the &quot;win&quot; or &quot;lose&quot; message" />
   </component>
 </project>
